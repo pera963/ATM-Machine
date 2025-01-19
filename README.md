@@ -1,2 +1,2 @@
 # ATM-Machine
-Rad sa automatom za podizanje nocca
+Work with an ATM machine for cash withdrawal.
